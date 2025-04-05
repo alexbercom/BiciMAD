@@ -27,6 +27,7 @@ La ejecución finaliza cuando todos los usuarios han completado sus paseos.
 - `BiciMAD.c`: Código principal de la práctica.
 - `entrada_BiciMAD.txt`: Archivo con la configuración predeterminada del sistema (usuarios, estaciones, huecos...).
 - `entrada.txt`: Archivo con la configuración del sistema no predeterminado pero elegible.
+- `entrada_grande.txt`: Archivo con la configuración del sistema no predeterminado pero elegible el cual tiene datos de entrada más grandes.
 
 ### Funciones principales
 - `main`: Inicializa los datos y lanza los hilos que simulan a los usuarios.
